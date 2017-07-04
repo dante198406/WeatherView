@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:terry="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <com.yaomei.widget.DateView android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <com.yaomei.widget.WeatherView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dip"
+        android:id="@+id/weatherview"
+        terry:AutoLoad="true"
+        terry:CityName="深圳"
+        terry:UpdateHour="4">
+    </com.yaomei.widget.WeatherView>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources>
+    <declare-styleable name="GridViewExt">
+        <attr name="ColumnCount" format="reference|integer"></attr> 
+        
+    </declare-styleable>
+      <declare-styleable name="WeatherView">
+       <attr name="CityName" format="reference|string"></attr> 
+          <attr name="AutoLoad" format="reference|boolean"></attr> 
+          <attr name="UpdateHour" format="reference|integer"></attr> 
+      </declare-styleable>
+    
+</resources>

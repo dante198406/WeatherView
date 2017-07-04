@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GridViewExt"><attr format="reference|integer" name="ColumnCount"/></declare-styleable>
+    <declare-styleable name="WeatherView"><attr format="reference|string" name="CityName"/><attr format="reference|boolean" name="AutoLoad"/><attr format="reference|integer" name="UpdateHour"/></declare-styleable>
+    <string name="app_name">天气预报</string>
+    <string name="date_str">%1$s年%2$s月%3$s日</string>
+    <string name="googleWeatherApi">
+ http://www.google.com/ig/api?hl=en&amp;weather=
+	</string>
+    <string name="hello">Hello World, weatherActivity!</string>
+    <string name="temp_format">%1$s℃~%2$s℃</string>
+</resources>

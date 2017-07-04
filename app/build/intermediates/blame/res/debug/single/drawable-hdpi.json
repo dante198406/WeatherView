@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_weather_overcast.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_overcast.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_weather_snow_shower.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_snow_shower.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_weather_shower.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_shower.png"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_weather_sunny.png",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\drawable-hdpi\\ic_weather_sunny.png"
+    }
+]

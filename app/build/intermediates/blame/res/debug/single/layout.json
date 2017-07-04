@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wether_row_layout.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\layout\\wether_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_layout.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\layout\\weather_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weather_view.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\layout\\weather_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_layout.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\layout\\date_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_view.xml",
+        "source": "C:\\Users\\zhangzhaolei.EROBBING\\AndroidStudioProjects\\WeatherView\\app\\src\\main\\res\\layout\\date_view.xml"
+    }
+]
